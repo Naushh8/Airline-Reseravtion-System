@@ -1,1 +1,1 @@
-# Airline-Reseravtion-System
+# Airline-reservation-system-java
